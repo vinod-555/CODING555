@@ -2,6 +2,6 @@
 <!DOUCTYPE>
 <HTML>
  <BODY>
-   <h1>something is better than nothing<\p>
+   <h1>something is better than nothing</p>
      </BODY>
      </HTML>
